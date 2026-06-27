@@ -2,7 +2,7 @@
 ```
 p [FF0000FF][Semua]nickmusuh (Hirara):[FFFFFFFF] hoammm
 ```
-  <img src="https://img.shields.io/badge/dynamic/json?label=TOTAL%20VISITOR&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Ftopibajaa-prank-chat-ML%2Fvisits&color=brightgreen&style=flat-square" alt="Total Visitor" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=topibajaa.prank-chat-ML&left_text=visitors&logo=github&query_only=true)
 
 # Screenshot
 ![Preview Chat](ss1.jpg)
